@@ -10,7 +10,7 @@ Final Project IA376
 December 2021
 
 Uma parceria com:
-# Meu Querido Diario
+## Meu Querido Diario
 
 
 How to run the code:
