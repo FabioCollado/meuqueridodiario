@@ -9,6 +9,7 @@ December 2021
 
 
 How to run the code:
+
 1 - Extract the PDFs of the gazettes from https://github.com/rennerocha/querido-diario-api-wrapper and place them in the "pdfs" folder.
 
 2 - Run the notebook "processing_pdfs.ipynb" to generate the file queridodiario2.pkl
