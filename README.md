@@ -25,5 +25,5 @@ Uma parceria com Meu Querido Diario
 - Projeto_Final_Querido_Diario.ipynb - Notebook to run the project.
 - processing_pdfs.ipynb - Notebook to extract the pdfs, preprocess the text and generate the file "queridodiario2.pkl". 
 - preprocess.py - Code for pre-processing the text.
-- - validation_dataset.pkl - Dataset for validation.
+- validation_dataset.pkl - Dataset for validation.
 - test_dataset.pkl - Dataset for test.
