@@ -1,11 +1,16 @@
-# meuqueridodiario
 
-# Segmentation of Legal Documents: unsupervised
-approach with BERT embeddings
+# Segmentation of Legal Documents: unsupervised approach with BERT embeddings
+
 Author: Fabio Collado
+
 Advisors: Andre Assumpção, Roberto Lotufo e Rodrigo Nogueira
+
 Final Project IA376
+
 December 2021
+
+Uma parceria com:
+# Meu Querido Diario
 
 
 How to run the code:
